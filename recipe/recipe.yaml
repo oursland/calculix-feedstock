@@ -21,7 +21,7 @@ source:
       then: patches/fix-win-locale.patch
 
 build:
-  number: 3
+  number: 4
 
 requirements:
   build:
